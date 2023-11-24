@@ -1,2 +1,3 @@
 # Errata
-Errata UMS3
+Errata contains an updated list of errata of the 3rd Edition of Understanding Molecular Simulation.
+The repository also contains relevant references. 
